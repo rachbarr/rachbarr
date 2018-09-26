@@ -1,5 +1,5 @@
 <html>
-  <head> 20180926_164153.jpg
+  <head> 20180926_164153.jpg <head>
     <title>Rachel Barr</title>
    </head>Senior in Greenville, South Carolina
     <body>
